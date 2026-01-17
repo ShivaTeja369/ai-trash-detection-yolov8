@@ -59,10 +59,10 @@ Model inference, metrics, and test samples can be viewed here:
 Below are sample predictions from the trained model:
 
 ### Leaf Detection
-![Leaf Detection](inference/sample_outputs/leaves_detection_img2.jpg)
+![Leaf Detection](inference/sample_outputs/leaves_detection_img2.png)
 
 ### Cup Detection
-![Cup Detection](inference/sample_outputs/cup_detection.jpg)
+![Cup Detection](inference/sample_outputs/cup_detection_img.png)
 
 ---
 
